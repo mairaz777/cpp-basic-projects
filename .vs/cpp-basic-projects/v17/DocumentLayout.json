@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\sortinghaat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sortinghaat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\magic8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:magic8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\leap_year.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leap_year.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\space.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:space.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -26,11 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sortinghaat.cpp",
+              "DocumentMoniker": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\sortinghaat.cpp",
+              "RelativeDocumentMoniker": "sortinghaat.cpp",
+              "ToolTip": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\sortinghaat.cpp",
+              "RelativeToolTip": "sortinghaat.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-10T04:19:11.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "magic8.cpp",
+              "DocumentMoniker": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\magic8.cpp",
+              "RelativeDocumentMoniker": "magic8.cpp",
+              "ToolTip": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\magic8.cpp",
+              "RelativeToolTip": "magic8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-10T03:01:51.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "leap_year.cpp",
+              "DocumentMoniker": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\leap_year.cpp",
+              "RelativeDocumentMoniker": "leap_year.cpp",
+              "ToolTip": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\leap_year.cpp",
+              "RelativeToolTip": "leap_year.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-10T02:51:30.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "currency.cpp",
               "DocumentMoniker": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\currency.cpp",
               "RelativeDocumentMoniker": "currency.cpp",
@@ -38,12 +89,11 @@
               "RelativeToolTip": "currency.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-10T02:24:04.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T02:24:04.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "dog_years.cpp",
               "DocumentMoniker": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\dog_years.cpp",
               "RelativeDocumentMoniker": "dog_years.cpp",
@@ -51,12 +101,11 @@
               "RelativeToolTip": "dog_years.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-10T02:21:09.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T02:21:09.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "quadratic.cpp",
               "DocumentMoniker": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\quadratic.cpp",
               "RelativeDocumentMoniker": "quadratic.cpp",
@@ -64,12 +113,11 @@
               "RelativeToolTip": "quadratic.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-10T02:21:06.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T02:21:06.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "space.cpp",
               "DocumentMoniker": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\space.cpp",
               "RelativeDocumentMoniker": "space.cpp",
