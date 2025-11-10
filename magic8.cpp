@@ -1,6 +1,6 @@
 #include <iostream>
 
-//programme shows random answers like a magic 8-ball
+//programme shows random answers like a magic 8-ball when running
 int main() {
 
     std::cout << "MAGIC 8-BALL:\n\n";

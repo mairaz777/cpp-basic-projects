@@ -1,6 +1,6 @@
 #include <iostream>
 
-//program to check leap year
+//program to check if it is a leap year
 int main() {
 
     int year = 0;
