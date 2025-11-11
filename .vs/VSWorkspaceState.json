@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\UFO"
   ],
-  "SelectedNode": "\\whale.cpp",
+  "SelectedNode": "\\UFO\\ufo_functions.cpp",
   "PreviewInSolutionExplorer": false
 }
