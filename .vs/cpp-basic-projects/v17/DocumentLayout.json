@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\profile\\profile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:profile\\profile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\profile\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:profile\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\profile\\profile.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:profile\\profile.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\UFO\\ufo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UFO\\ufo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -22,11 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "profile.cpp",
+              "DocumentMoniker": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\profile\\profile.cpp",
+              "RelativeDocumentMoniker": "profile\\profile.cpp",
+              "ToolTip": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\profile\\profile.cpp",
+              "RelativeToolTip": "profile\\profile.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-12T22:20:33.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "profile.hpp",
+              "DocumentMoniker": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\profile\\profile.hpp",
+              "RelativeDocumentMoniker": "profile\\profile.hpp",
+              "ToolTip": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\profile\\profile.hpp",
+              "RelativeToolTip": "profile\\profile.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-12T22:20:21.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "app.cpp",
+              "DocumentMoniker": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\profile\\app.cpp",
+              "RelativeDocumentMoniker": "profile\\app.cpp",
+              "ToolTip": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\profile\\app.cpp",
+              "RelativeToolTip": "profile\\app.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-12T22:19:59.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ufo_functions.cpp",
               "DocumentMoniker": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\UFO\\ufo_functions.cpp",
               "RelativeDocumentMoniker": "UFO\\ufo_functions.cpp",
@@ -39,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ufo_functions.hpp",
               "DocumentMoniker": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\UFO\\ufo_functions.hpp",
               "RelativeDocumentMoniker": "UFO\\ufo_functions.hpp",
@@ -52,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ufo.cpp",
               "DocumentMoniker": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\UFO\\ufo.cpp",
               "RelativeDocumentMoniker": "UFO\\ufo.cpp",
               "ToolTip": "C:\\Users\\maira\\source\\repos\\cpp-basic-projects\\UFO\\ufo.cpp",
               "RelativeToolTip": "UFO\\ufo.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-11T02:24:35.587Z",
               "EditorCaption": ""
